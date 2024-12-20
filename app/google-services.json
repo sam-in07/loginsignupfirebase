@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259697900278",
+    "project_id": "loginsignupfirebase-d5617",
+    "storage_bucket": "loginsignupfirebase-d5617.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259697900278:android:b81d7a6135037e3bafcad7",
+        "android_client_info": {
+          "package_name": "com.creativeitinstitute.loginsignupfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxJLMXQ2gi62XV2v94aDrAu_I3GCZvU0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

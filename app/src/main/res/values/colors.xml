@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple">#8692f7</color>
+    <color name="lavender">#E6E6FA</color> <!-- Example color for 'colorPrimaryVariant' -->
+    <color name="white">#FFFFFF</color> <!-- Example color for 'colorOnPrimary' -->
+    <color name="teal_200">#80CBC4</color> <!-- Example color for 'colorSecondary' -->
+    <color name="teal_700">#00796B</color> <!-- Example color for 'colorSecondaryVariant' -->
+    <color name="black">#000000</color> <!-- Example color for 'colorOnSecondary' -->
+</resources>
